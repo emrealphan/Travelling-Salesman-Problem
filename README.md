@@ -1,3 +1,5 @@
+Proje Grup Üyeleri : Emre Alphan - Poyraz Aktaş
+
 Kocaeli’den dağıtıma
 başlayan bir kargo firmasının dağıtım
 yapılması istenen şehirlere en kısa yoldan
